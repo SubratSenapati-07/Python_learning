@@ -1,23 +1,20 @@
-🐍 Python Learning Repository
+# 🐍 Python Learning Repository
 
-This repository contains my Python learning journey — from basics to object-oriented programming.
+This repository contains my Python learning journey and practice files.
 
-📘 Topics Covered
+## 📚 Topics Covered
+- Python Basics (Variables, Data Types, Operators)
+- Conditional Statements and Loops
+- Functions and Recursion
+- Object-Oriented Programming (Classes, Inheritance, etc.)
+- File Handling
 
-Python Basics (variables, datatypes, operators)
+## 🛠️ Tools Used
+- VS Code for coding
+- Git & GitHub for version control
+- Python 3.x
 
-Conditional Statements and Loops
-
-Functions and Recursion
-
-Object-Oriented Programming (Classes, Inheritance, Polymorphism)
-
-File Handling
-
-🛠 Tools Used
-
-VS Code for coding
-
-Git & GitHub for version control
-
-Python 3.x
+## 🚀 Future Additions
+- NumPy
+- Pandas
+- Matplotlib
