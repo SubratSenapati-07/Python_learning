@@ -1,0 +1,5 @@
+a =int(Input("First Number : ")) 
+b =int(Input("Second Number"))
+print("First value", a )
+print("Second value", b )
+print("Sum is :", c )

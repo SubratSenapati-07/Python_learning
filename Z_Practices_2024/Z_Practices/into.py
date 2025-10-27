@@ -1,0 +1,2 @@
+print("Sonali ")
+print("alone")
